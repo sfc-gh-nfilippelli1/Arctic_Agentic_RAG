@@ -1,7 +1,7 @@
 # Arctic Agentic RAG Framework: Simplifying Agentic Retrieval-Augmented Generation
 
 ## Overview
-The **Arctic Agentic RAG Framework** is a sophisticated retrieval-augmented generation (RAG) system tailored for agentic workflows. It supports various strategies for retrieval, reasoning, and response generation using large language models (LLMs). The framework's modular design allows for easy customization to fit different agentic setups. Arctic Agentic RAG Framework is built upon [Arctic Agentic RAG series](PLACEHOLD) and will continue release features associted with the eposide rolls out.
+The **Arctic Agentic RAG Framework** is a sophisticated retrieval-augmented generation (RAG) system tailored for agentic workflows. It supports various strategies for retrieval, reasoning, and response generation using large language models (LLMs). The framework's modular design allows for easy customization to fit different agentic setups. Arctic Agentic RAG Framework is built upon [Arctic Agentic RAG series](https://www.snowflake.com/en/blog/arctic-agentic-rag-enterprise-ai/) and will continue release features associted with the eposide rolls out.
 
 ## Features
 - **Agent-Based Modular Design**: Supports template-based agents for various usage.
